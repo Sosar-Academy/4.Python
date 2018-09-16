@@ -1,11 +1,12 @@
 # 4.Python
 
 ## Lihat video ini
-Basic cursus Python
-⋅⋅⋅https://www.youtube.com/watch?v=N0lxfilGfak => 1 jam 46 menit
 
-Class dan object in Python
-⋅⋅⋅https://www.youtube.com/watch?v=98YeQpmQeH8&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu&index=8 
+#### Basic cursus Python
+https://www.youtube.com/watch?v=N0lxfilGfak => 1 jam 46 menit
+
+#### Class dan object in Python
+https://www.youtube.com/watch?v=98YeQpmQeH8&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu&index=8 
 
 ---
 
